@@ -1,0 +1,14 @@
+H:\My PDC\napster_clone_project\src\main\java\com\mycompany\napsterclone\client\ClientManager.java
+H:\My PDC\napster_clone_project\src\main\java\com\mycompany\napsterclone\main\NapsterClient.java
+H:\My PDC\napster_clone_project\src\main\java\com\mycompany\napsterclone\model\FileMetaData.java
+H:\My PDC\napster_clone_project\src\main\java\com\mycompany\napsterclone\model\UpdateOperation.java
+H:\My PDC\napster_clone_project\src\main\java\com\mycompany\napsterclone\net\FileClient.java
+H:\My PDC\napster_clone_project\src\main\java\com\mycompany\napsterclone\net\FileServer.java
+H:\My PDC\napster_clone_project\src\main\java\com\mycompany\napsterclone\net\ProgressListener.java
+H:\My PDC\napster_clone_project\src\main\java\com\mycompany\napsterclone\solr\SolrClientManager.java
+H:\My PDC\napster_clone_project\src\main\java\com\mycompany\napsterclone\ui\FileTableModel.java
+H:\My PDC\napster_clone_project\src\main\java\com\mycompany\napsterclone\ui\JoinForm.java
+H:\My PDC\napster_clone_project\src\main\java\com\mycompany\napsterclone\ui\MainForm.java
+H:\My PDC\napster_clone_project\src\main\java\com\mycompany\napsterclone\ui\TransferProgressRenderer.java
+H:\My PDC\napster_clone_project\src\main\java\com\mycompany\napsterclone\util\Bytes.java
+H:\My PDC\napster_clone_project\src\main\java\com\mycompany\napsterclone\util\NetworkUtils.java
